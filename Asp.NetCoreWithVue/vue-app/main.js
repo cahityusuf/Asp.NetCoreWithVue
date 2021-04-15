@@ -3,8 +3,6 @@ import App from "./App.vue";
 import Vuex from "vuex";
 import VueRouter from "vue-router";
 
-import Main from "./pages/Main.vue";
-import Post from "./pages/Post.vue";
 import * as mutations from "./store/mutations";
 import * as actions from "./store/actions";
 import state from "./store/state";
